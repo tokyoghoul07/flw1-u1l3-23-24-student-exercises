@@ -8,7 +8,10 @@
     - Change the font size to 16px
     - Extra: Make the corners rounded
 */
-button {
+button { 
+  background:#FF69B4;
+  border-color:#FF69B4;
+  color:white;
     font-size: 5px;
     cursor: pointer;
     transition: transform 0.3s, background-color 0.3s, font-size 0.3s;
